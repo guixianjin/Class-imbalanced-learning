@@ -2,7 +2,7 @@
 This file is used to record research work on class imbalanced problem
 
 
-#### resampling styles
+### resampling styles
 
 ##### not depended on example number in each class
 + uniform
