@@ -10,5 +10,5 @@ This file is used to record research work on class imbalanced problem
 
 
 ##### depended on example number in each class
-+ repociral to example number of each class  (weight: $\frac{1}{n_i}$)
++ repociral to example number of each class  (weights: $\frac{1}{n_i}$)
 + effective number
