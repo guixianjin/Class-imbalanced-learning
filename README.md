@@ -2,7 +2,7 @@
 This file is used to record research work on class imbalanced problem
 
 
-### resampling styles: (consideri each class's probability)
+### resampling styles: (consider each class's probability)
 + (original) uniform: $p_i = n_i / \sum_j(n_j)$
 + class-balanced: $p_i = 1/c$
 + reverse: $p_i = (1/n_i) / \sum_j (1/n_j)$
