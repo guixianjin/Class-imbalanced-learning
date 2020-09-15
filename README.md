@@ -7,6 +7,7 @@ This file is used to record research work on class imbalanced problem
 + class-balanced: $p_i = 1/c$
 + reverse: $p_i = (1/n_i) / \sum_j (1/n_j)$
 
+each example's sample probability: $p(x^i) = p_i/num_i$
 
 
 ### reweighting styles: (consider each example's weight)
